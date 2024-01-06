@@ -17,7 +17,7 @@ languageSelector.addEventListener("change", (event) => {
 });
 
 document.addEventListener("DOMContentLoaded", () => {
-    const language = localStorage.getItem("lang") || "en"; // اذا لم تكن اللغة متوفرة استخدم الانجليزية
+    const language = localStorage.getItem("lang") || "ar"; // ااستخدم اللغة العربية افتراضيا
     setLanguage(language);
     if (language === "en") {
         languageSelector.selectedIndex = 0; // for english
