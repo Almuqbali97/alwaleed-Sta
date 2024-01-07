@@ -51,7 +51,7 @@ const translations = {
         home: "الرئيسية",
         services: "خدماتنا",
         contact: "تواصل معنا",
-        english: "اEnglish",
+        english: "English",
         arabic: "Arabic",
         find: "زر موقعنا",
         motiv1: "ورقة وقلم , حيث تبدأ كل قصة",
